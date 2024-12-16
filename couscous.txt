@@ -1,1 +1,2 @@
 wuuwuuuu I've just edited the file and gonna update it on github
+just 'git push' to update old or send new files to the same github repository 
